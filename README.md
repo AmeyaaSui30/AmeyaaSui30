@@ -12,7 +12,7 @@
 
 - 💼 **B.Tech Information Technology student at KJSCE**, passionate about **AI/ML**, **web development**, and **data analytics**.
 - 🚀 **Building scalable, data-driven FinTech solutions** and **real-world applications** with a focus on **financial innovation** and **predictive modeling**.
-- 🧑‍💻 Current Projects: **Smart Finance Platform**, **AI Prescription System**, **DSA Visualizations**.
+- 🧑‍💻 Current Projects: **FinMatch AI**, **DSA Visualizations**.
 - 🌍 **Languages Known**: English, Hindi, Marathi, Sanskrit.
 - 💬 **Tech Enthusiast**, **Quick Learner**, **Collaborative Team Player**.
 - 📚 Interested in **FinTech**, **UI/UX Design**, **Data Visualization**, **Tech Innovation**.
@@ -51,5 +51,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI" />
 </p>
