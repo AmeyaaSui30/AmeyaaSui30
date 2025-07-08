@@ -1,16 +1,32 @@
-## Hi there 👋
+<!-- Hi there 👋 -->
 
-<!--
-**AmeyaaSui30/AmeyaaSui30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Welcome to Ameya's Tech Arena! 🎮</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F795&center=true&width=440&lines=Code+Create+Innovate.;FinTech+Tech+Enthusiast.;AI+and+Data+Driven+Developer" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 💼 **B.Tech Information Technology student at KJSCE**, passionate about **AI/ML**, **web development**, and **data analytics**.
+- 🚀 **Building scalable, data-driven FinTech solutions** and **real-world applications** with a focus on **financial innovation** and **predictive modeling**.
+- 🧑‍💻 Current Projects: **Smart Finance Platform**, **AI Prescription System**, **DSA Visualizations**.
+- 🌍 **Languages Known**: English, Hindi, Marathi, Sanskrit.
+- 💬 **Tech Enthusiast**, **Quick Learner**, **Collaborative Team Player**.
+- 📚 Interested in **FinTech**, **UI/UX Design**, **Data Visualization**, **Tech Innovation**.
+
+---
+
+### 🔧 Tech Stack & Skills
+
+```javascript
+{
+  "Languages": ["Java", "Python", "JavaScript", "C"],
+  "Web": ["React", "HTML", "CSS", "Node.js", "REST APIs"],
+  "Database": ["Firebase", "MySQL", "PostgreSQL", "MongoDB"],
+  "Tools": ["Git", "GitHub", "Linux", "Arduino", "Raspberry Pi"],
+  "Cloud": ["Firebase", "Vercel"],
+  "Software": ["Figma", "Canva", "Adobe Creative Suite", "Power BI"]
+}
