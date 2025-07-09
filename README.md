@@ -2,9 +2,7 @@
 
 <h1 align="center">Welcome to Ameya's Tech Arena! 🎮</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/iIV5c5xW5zGDhCIN0X/giphy.gif" height="200" alt="Beyblade Boy Spinning" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F795&center=true&width=500&lines=Code+Create+Innovate.;FinTech+Tech+Enthusiast.;AI+and+Data+Driven+Developer" alt="Typing SVG" />
